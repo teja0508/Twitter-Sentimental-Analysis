@@ -1,4 +1,7 @@
 # Tweet-Analyzer
+Twitter sentiment analysis allows you to keep track of what’s being said about your product or service on social media, and can help you detect angry customers or negative mentions before they turn into a major crisis.
+
+At the same time, Twitter sentiment analysis can provide interesting insights.
 ## DS with Reddy
 
 Web App Link : https://twitter-sentimental-analysiss.herokuapp.com/
